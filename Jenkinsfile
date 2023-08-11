@@ -40,13 +40,5 @@ pipeline {
         always {
             sh 'deactivate'
         }
-
-        success {
-            // Archive test reports, artifacts, or perform other post-build actions
-        }
-
-        failure {
-            // Notify or take actions in case of test failure
-        }
     }
 }
