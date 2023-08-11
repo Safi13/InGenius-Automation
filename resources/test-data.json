@@ -1,0 +1,788 @@
+{
+   "Templates and Progress Checklist": {
+      "Template Info": [
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Main",
+                  "Supplementary"
+               ],
+               "Number Of Allowed Student": [
+                  "One",
+                  "Many"
+               ],
+               "Template": "Template For Testing",
+               "Course Classification": [
+                  "Candidacy Building",
+                  "Application Counseling",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Weekly",
+                  "Bi-Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "US",
+                  "China",
+                  "Canada",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Template For Testing Description"
+            },
+            "Payments": {
+               "FAO/TA Payment": "200.00",
+               "GC/Instructor Payment": "150.00"
+            }
+         },
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Supplementary",
+                  "Main"
+               ],
+               "Number Of Allowed Student": [
+                  "Many",
+                  "One"
+               ],
+               "Template": "Updated Template For Testing",
+               "Course Classification": [
+                  "Application Counseling",
+                  "Candidacy Building",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Bi-Weekly",
+                  "Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "Canada",
+                  "US",
+                  "China",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Updated Template For Testing"
+            },
+            "Payments": {
+               "FAO/TA Payment": "103.00",
+               "GC/Instructor Payment": "199.00"
+            }
+         },
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Supplementary",
+                  "Main"
+               ],
+               "Number Of Allowed Student": [
+                  "One",
+                  "Many"
+               ],
+               "Template": "Single Student Template",
+               "Course Classification": [
+                  "Application Counseling",
+                  "Candidacy Building",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Bi-Weekly",
+                  "Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "Canada",
+                  "US",
+                  "China",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Test Template Description"
+            },
+            "Payments": {
+               "FAO/TA Payment": "103.00",
+               "GC/Instructor Payment": "199.00"
+            }
+         },
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Supplementary",
+                  "Main"
+               ],
+               "Number Of Allowed Student": [
+                  "One",
+                  "Many"
+               ],
+               "Template": "Single Student Template 1",
+               "Course Classification": [
+                  "Application Counseling",
+                  "Candidacy Building",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Bi-Weekly",
+                  "Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "Canada",
+                  "US",
+                  "China",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Test Template Description"
+            },
+            "Payments": {
+               "FAO/TA Payment": "103.00",
+               "GC/Instructor Payment": "199.00"
+            }
+         },
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Supplementary",
+                  "Main"
+               ],
+               "Number Of Allowed Student": [
+                  "Many",
+                  "One"
+               ],
+               "Template": "Many Students Template",
+               "Course Classification": [
+                  "Application Counseling",
+                  "Candidacy Building",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Bi-Weekly",
+                  "Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "Canada",
+                  "US",
+                  "China",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Test Template Description"
+            },
+            "Payments": {
+               "FAO/TA Payment": "103.00",
+               "GC/Instructor Payment": "199.00"
+            }
+         },
+         {
+            "Template Details": {
+               "Template Type": [
+                  "Supplementary",
+                  "Main"
+               ],
+               "Number Of Allowed Student": [
+                  "Many",
+                  "One"
+               ],
+               "Template": "Many Students Template 1",
+               "Course Classification": [
+                  "Application Counseling",
+                  "Candidacy Building",
+                  "Group Candidacy Building",
+                  "Group Application Counseling",
+                  "Leadership & Innovation",
+                  "Writing Course",
+                  "Soft Skills",
+                  "Soft Skills placeholder",
+                  "Academic Mentorship"
+               ],
+               "Frequency": [
+                  "Bi-Weekly",
+                  "Weekly",
+                  "Monthly"
+               ],
+               "Country": [
+                  "Canada",
+                  "US",
+                  "China",
+                  "UK",
+                  "Korea",
+                  "New Zealand",
+                  "Other"
+               ],
+               "Template Description (Optional)": "Test Template Description"
+            },
+            "Payments": {
+               "FAO/TA Payment": "103.00",
+               "GC/Instructor Payment": "199.00"
+            }
+         }
+      ],
+      "Progress Checklist": [
+         {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               },
+               {
+                  "Task Group": "Test Task Group 2",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               },
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         },
+                  {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         },
+                  {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         },
+                  {
+            "Group": [
+               {
+                  "Task Group": "Test Task Group 1",
+                  "Assigned To": [
+                     "FAO/TA",
+                     "GC/Instructor",
+                     "PM",
+                     "CM",
+                     "Other"
+                  ],
+                  "Role Completion Percentage": "100.00",
+                  "Due Date": "current+60",
+                  "Item": [
+                     {
+                        "Checklist Item": "Test Checklist Item 1",
+                        "Checklist Item Description": "Test Checklist Item Description 1"
+                     },
+                     {
+                        "Checklist Item": "Test Checklist Item 2",
+                        "Checklist Item Description": "Test Checklist Item Description 2"
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "Progress Checklist Verification": [
+         {
+            "Number of Groups": 10,
+            "Number of Items": [4,5,10,12,6,21,4,5,9,1],
+            "Task Group": "Task Group",
+            "Assigned To": "PM",
+            "Role Completion Percentage": "10.00",
+            "Due Date": "current",
+            "Checklist Item": "Checklist Item",
+            "Checklist Item Description": "Checklist Item Description"
+         }
+      ]
+   },
+   "Courses": {
+      "Single Student": [
+         {
+            "Course Details": {
+               "Templates": "Single Student Template",
+               "Type": "Main",
+               "No. of Students": "One",
+               "Course Title": "Test Course Single Template",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current",
+               "End Date": "current+10",
+               "Students": "Dora Chen"
+            },
+            "Rate": {
+               "FAO Rate": "200.00",
+               "GC Rate": "150.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Single Student Template 1",
+               "Type": "Main",
+               "No. of Students": "One",
+               "Course Title": "Test Course Single Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current",
+               "End Date": "current+10",
+               "Students": "Dora Chen"
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+         }
+      ],
+      "Many Students": [
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current-5",
+               "End Date": "current+10",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "200.00",
+               "GC Rate": "150.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template 1",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current",
+               "End Date": "current+10",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current+5",
+               "End Date": "current+10",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "Abey Dessie",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Abey Dessie",
+               "CM": "Abey Dessie",
+               "Other": [
+                  "Abey Dessie",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current-5",
+               "End Date": "current-1",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "abdul ghani",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Allen Cui",
+               "CM": "Amy Greene",
+               "Other": [
+                  "Anna Long",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current-5",
+               "End Date": "current-1",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "abdul ghani",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Allen Cui",
+               "CM": "Amy Greene",
+               "Other": [
+                  "Anna Long",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current-5",
+               "End Date": "current+1",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         },
+         {
+            "Course Details": {
+               "Templates": "Many Students Template",
+               "Type": "Supplementary",
+               "No. of Students": "Many",
+               "Course Title": "Test Course Many Template 1",
+               "Frequency": ["Weekly","Bi-Weekly","Monthly"],
+               "Description": "Test Template Description 1"
+            },
+            "Counselor": {
+               "FAO/TA": "abdul ghani",
+               "GC/Instructor": "Abey Dessie",
+               "PM": "Allen Cui",
+               "CM": "Amy Greene",
+               "Other": [
+                  "Anna Long",
+                  "Alex Tian",
+                  "Alex Kent"
+               ],
+               "Start Date": "current+1",
+               "End Date": "current+2",
+               "Students": [
+                  "Dora Chen",
+                  "Grace Tao",
+                  "Chuck Hu"
+               ]
+            },
+            "Rate": {
+               "FAO Rate": "199.00",
+               "GC Rate": "149.00"
+            }
+
+         }
+      ]
+   }
+}
