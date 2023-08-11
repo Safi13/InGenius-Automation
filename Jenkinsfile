@@ -1,44 +1,37 @@
 pipeline {
-  agent any
+    agent any
 
     stages {
         stage('Install Allure Dependencies') {
             steps {
-                sh 'sudo apt-add-repository ppa:qameta/allure'
-                sh 'sudo apt-get update'
-                sh 'sudo apt-get install allure'
+                bat 'choco install allure-commandline' // Install Allure using Chocolatey package manager
             }
         }
 
         stage('Python Setup') {
             steps {
-                // Create and activate Python virtual environment
-                sh 'python -m venv venv'
-                sh 'source venv/bin/activate'
-
-                // Install project dependencies
-                sh 'pip install -r requirements.txt'
+                bat 'python -m venv venv' // Use 'bat' for Windows shell commands
+                bat 'venv\\Scripts\\activate' // Activate the virtual environment
+                bat 'pip install -r requirements.txt' // Install Python dependencies
             }
         }
 
         stage('Run Tests') {
             steps {
-                // Run your tests with the AllureFormatter
-                sh 'behave --format allure_behave.formatter:AllureFormatter -o allure-results'
+                bat 'behave --format allure_behave.formatter:AllureFormatter -o allure-results' // Run tests and generate Allure report
             }
         }
 
         stage('Generate and View Allure Report') {
             steps {
-                // Generate Allure report
-                sh 'allure serve'
+                bat 'allure serve allure-results' // Generate and serve the Allure report
             }
         }
     }
 
     post {
         always {
-            sh 'deactivate'
+            bat 'venv\\Scripts\\deactivate' // Deactivate the virtual environment
         }
     }
 }
