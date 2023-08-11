@@ -5,7 +5,7 @@ pipeline {
         stage('Install Project Dependencies') {
             steps {
                 // Install project dependencies
-                sh 'pip install -r requirements.txt'
+                sh 'pip3.8 install -r requirements.txt'
             }
         }
 
