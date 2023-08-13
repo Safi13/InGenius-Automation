@@ -12,8 +12,7 @@ pipeline {
         stage('Run Tests with Allure Formatting') {
             steps {
                 // Run your tests with the AllureFormatter
-                sh 'pwd'
-                sh 'behave --format allure_behave.formatter:AllureFormatter -o allure-results'
+                sh '~/.local/bin/behave --format allure_behave.formatter:AllureFormatter -o allure-results'
             }
         }
 
