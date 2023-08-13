@@ -12,7 +12,7 @@ pipeline {
         stage('Run Tests with Allure Formatting') {
             steps {
                 // Run your tests with the AllureFormatter
-                sh '~/.local/bin/behave --format allure_behave.formatter:AllureFormatter -o allure-results'
+                sh '/usr/bin/python3.11 ~/.local/bin/behave --format allure_behave.formatter:AllureFormatter -o allure-results'
             }
         }
 
